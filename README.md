@@ -8,3 +8,5 @@ dogs & spiders.
 train_nn.py -> trains this NN and gives weights & biases
 nn.py -> implementation of this simple NN
 
+This uses just the standard library of python3 so you don't
+need any dependencies
